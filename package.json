@@ -1,0 +1,25 @@
+{
+  "name": "calculatorproject",
+  "version": "1.0.0",
+  "description": "BarIllan Course Web Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "test_command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toggit/CalculatorProject.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "express",
+    "test"
+  ],
+  "author": "TomerGrinber ,Yosef Noorani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toggit/CalculatorProject/issues"
+  },
+  "homepage": "https://github.com/toggit/CalculatorProject#readme"
+}
