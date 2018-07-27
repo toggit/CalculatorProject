@@ -22,7 +22,7 @@ jobs:
 #      - run: npm start &
 #      - run: sleep 2
 #      - run: npm test
-     -run: ./node_modules/mocha/bin/mocha ./test/unit-test.js
+     - run: ./node_modules/mocha/bin/mocha ./test/unit-test.js
 
 
 
