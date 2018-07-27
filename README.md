@@ -26,7 +26,7 @@ LINK: https://docs.google.com/document/d/1R4T4fGA5pt1w6ElWLhKVhKrreuQ4m5-lSrwepo
 ## Docker 
 ### Docker Container
  - route terminal to the git clone directory  
- - sudo docker build . -t "calculator-service" .
+ - sudo docker build . -t "calculator-service"
  - sudo docker run -p 3000:3000 calculator-service
 
 ### Intergation testing:
